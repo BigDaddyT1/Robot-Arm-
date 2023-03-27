@@ -1,12 +1,17 @@
 # Robot Arm
 #What is this Project?
 Build a robot arm that can do a task.
-## Requirements (read this)
+## Requirements For Project 
 -Your robot arm can pick something up or hold something, and move it around.  This is very general, and should be made more specific, based on the particular problem that you're attempting to solve.
+
 -Your robot arm's motion should have 3-6 servos Micro or standard. 
+
 -This robot arm is controlled with Arduino or CircuitPython, your choice.  The controller should run off either power coming from USB or a rechargeable 9V battery or battery pack.
+
 -Like all of your prior projects, there should be an easy way to switch off the power, an easy way to change batteries, and some obvious indication when power is on.
+
 -Knock out your design in CAD before you start constructing anything.  Use SolidWorks to do a motion and/or stress analysis of your robot arm or some part of the arm. 
+
 #Project planning doccument:
 Source for Project Planning: https://docs.google.com/document/d/15Tew-MtXxxcetKLdX3Wt4Nufw6axhEezAe_4fcUIpyI/edit#heading=h.ukbi0a75zb46 
 #Our goal/ Vission:
