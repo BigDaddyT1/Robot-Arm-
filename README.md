@@ -1,6 +1,6 @@
 # Robot Arm
-#What is this Project?
-Build a robot arm that can do a task.
+#What is this Project? Build a robot arm that can do a task.
+
 ## Requirements For Project 
 -Your robot arm can pick something up or hold something, and move it around.  This is very general, and should be made more specific, based on the particular problem that you're attempting to solve.
 
@@ -14,6 +14,8 @@ Build a robot arm that can do a task.
 
 #Project planning doccument:
 Source for Project Planning: https://docs.google.com/document/d/15Tew-MtXxxcetKLdX3Wt4Nufw6axhEezAe_4fcUIpyI/edit#heading=h.ukbi0a75zb46 
+
 #Our goal/ Vission:
 What we wanted to do as a team is create a solution to our problem. Our problem being how can we get extra practice when we dont have other people who want to come out and get extra practice. Our solition: create a robot arm that can be used as a multi-purpouse tool and can be there when the person is not.This is why we chose to make a robot arm that can throw baseballs and give you infeild repetitions when you need. Making this will eliminate the need for another person to be there and will help give you the perfect reps every time.
+
 ### If you get an error about user.name and user.email
