@@ -134,3 +134,10 @@ print((button_a.value, switch.value, timeStop, time.monotonic(), motor_a.throttl
 
 
 # Reflection
+This project taught us a lot about robotics and problem-solving. We had to come up with a solution for the problem of not having enough people to practice with, and we decided to create a robot arm that could throw baseballs and give infield repetitions. We learned how to design and build a robot arm that could move and pick up objects with the help of servos and an Arduino controller. The CAD design was especially useful in creating a motion and stress analysis of the robot arm.
+
+One of the most challenging parts of the project was getting the arm to move in the right way to throw the baseballs accurately. We had to experiment with different designs and angles to get the throwing motion just right. We also had to figure out how to make the arm stable and secure, so it wouldn't wobble or move while throwing the ball. Another challenge was making sure the controller was working correctly and that we could easily switch off the power or change batteries.
+
+Our main goal was to create a multi-purpose tool that could help people get extra practice without needing another person there. We wanted to eliminate the need for someone to throw the ball and give people the perfect reps every time. The jai alai scooper was a crucial component of our design, and we based the whole project on it. The connector piece was also essential in connecting the jai alai to the actual metal piece and throwing the ball accurately.
+
+Overall, this project was a great learning experience, and we were able to develop new skills in robotics and problem-solving. It was a challenging but rewarding project, and we're proud of the final result.
