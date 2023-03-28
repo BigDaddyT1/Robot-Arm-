@@ -34,11 +34,6 @@ https://user-images.githubusercontent.com/91158978/228271775-c3338992-b1db-4201-
 https://user-images.githubusercontent.com/91158978/228272692-2c9db49b-105a-4e4e-b5eb-860517c765e6.mp4
 
 
-
-
-
-
-
 ![image](https://user-images.githubusercontent.com/113116205/228253333-abcd3984-5490-450f-a9f3-8cc0a87c59f8.png)
 ![image](https://user-images.githubusercontent.com/113116205/228253504-3adfd3d6-4590-47cb-87a2-462effc2bb48.png)
 
@@ -159,7 +154,10 @@ https://user-images.githubusercontent.com/91158978/228269600-a4db18a1-2ca0-43e0-
 
 https://user-images.githubusercontent.com/91158978/228269615-9e9cc8d4-0779-400c-96f6-061e618b7958.MOV
 
-
+# Pitching machines videos
+https://www.youtube.com/shorts/wjYDkKR-sig
+https://www.youtube.com/watch?v=IGYpZd_Ou3k 
+https://www.youtube.com/watch?v=tBtfT6nsIuI
 
 # Reflection
 This project taught us a lot about robotics and problem-solving. We had to come up with a solution for the problem of not having enough people to practice with, and we decided to create a robot arm that could throw baseballs and give infield repetitions. We learned how to design and build a robot arm that could move and pick up objects with the help of servos and an Arduino controller. The CAD design was especially useful in creating a motion and stress analysis of the robot arm.
