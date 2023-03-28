@@ -39,5 +39,7 @@ This is what we based our whole project off of it is called a jai alai scooper i
 ![image](https://user-images.githubusercontent.com/113116205/228258162-3137ef31-c18f-4a48-8ee1-6aedd0001f3f.png)
 ![image](https://user-images.githubusercontent.com/113116205/228258294-2da5d978-8b1b-469a-9ef8-278d7af61137.png)
 ![image](https://user-images.githubusercontent.com/113116205/228258455-16e856e2-5c4f-42de-82e5-58dae5b6e186.png)
+![image](https://user-images.githubusercontent.com/113116205/228258660-affc144c-b90f-4056-8be8-3a65e897cd77.png)
+![image](https://user-images.githubusercontent.com/113116205/228258746-dd44368d-8829-4be7-8636-70b526c16bc0.png)
 
 # Reflection
