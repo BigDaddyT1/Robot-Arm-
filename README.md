@@ -1,5 +1,5 @@
 # Robot Arm
-#What is this Project? Build a robot arm that can do a task.
+# What is this Project? Build a robot arm that can do a task.
 
 ## Requirements For Project 
 -Your robot arm can pick something up or hold something, and move it around.  This is very general, and should be made more specific, based on the particular problem that you're attempting to solve.
