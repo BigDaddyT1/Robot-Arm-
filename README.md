@@ -52,7 +52,7 @@ This is what we based our whole project off of it is called a jai alai scooper i
 ![image_50445057](https://user-images.githubusercontent.com/91158978/228259522-ee10264c-3d3c-477f-a468-ec29ad1d4b8e.JPG)
 ![image_50403329](https://user-images.githubusercontent.com/91158978/228259537-6af1d40e-7f32-4f0e-8347-183dfa58d45a.JPG)
 
-- This is the finished desighn as you can see we decided to replace the wals with steal rods that are coonected to the wood which are planted to the ground with the l shaped screw holders and then conected to the arm desighn then we changed it so the arm is throwing the ball at a 180 degree angle so it can be as fast as possible. Then decided to scre the battery7 holders to the side of the platform and then put the code on the actuall platform. if we had aditional time we were going to add a ball feeder but we did not have additional time.
+- This is the finished design as you can see we decided to replace the wals with steal rods that are coonected to the wood which are planted to the ground with the l shaped screw holders and then conected to the arm desighn then we changed it so the arm is throwing the ball at a 180 degree angle so it can be as fast as possible. Then decided to scre the battery7 holders to the side of the platform and then put the code on the actuall platform. if we had aditional time we were going to add a ball feeder but we did not have additional time.
 
 ## Commented Code
 ```python
