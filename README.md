@@ -25,6 +25,13 @@ What we wanted to do as a team is create a solution to our problem. Our problem 
 This is what we based our whole project off of it is called a jai alai scooper it holds the ball and throwis it at almost 90 degree angle and can whip the ball out of the jai alai pretty fast and was very essential in our project.
 
 - this is a video of what the jai ali is actually capable of: https://www.youtube.com/watch?v=wk4-fuGAwjY
+- here is another video
+
+
+https://user-images.githubusercontent.com/91158978/228271775-c3338992-b1db-4201-a7a4-3339b8b70e48.mp4
+
+
+
 
 ![image](https://user-images.githubusercontent.com/113116205/228253333-abcd3984-5490-450f-a9f3-8cc0a87c59f8.png)
 ![image](https://user-images.githubusercontent.com/113116205/228253504-3adfd3d6-4590-47cb-87a2-462effc2bb48.png)
