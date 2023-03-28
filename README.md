@@ -131,6 +131,21 @@ print((button_a.value, switch.value, timeStop, time.monotonic(), motor_a.throttl
 # Else
 #   motor throttle = 0
 ```
+# Videos from Project
+
+https://user-images.githubusercontent.com/91158978/228269459-0703f06c-6a79-47bb-87a3-f3d1d6f57633.mp4
+
+
+https://user-images.githubusercontent.com/91158978/228269484-28800e23-5790-4bf4-9498-d971a8ff5251.mp4
+
+
+
+https://user-images.githubusercontent.com/91158978/228269600-a4db18a1-2ca0-43e0-84d3-42527a54ff74.MOV
+
+
+
+https://user-images.githubusercontent.com/91158978/228269615-9e9cc8d4-0779-400c-96f6-061e618b7958.MOV
+
 
 
 # Reflection
