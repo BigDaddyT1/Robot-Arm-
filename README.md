@@ -156,7 +156,9 @@ https://user-images.githubusercontent.com/91158978/228269615-9e9cc8d4-0779-400c-
 
 # Pitching machines videos
 https://www.youtube.com/shorts/wjYDkKR-sig
+
 https://www.youtube.com/watch?v=IGYpZd_Ou3k 
+
 https://www.youtube.com/watch?v=tBtfT6nsIuI
 
 # Reflection
