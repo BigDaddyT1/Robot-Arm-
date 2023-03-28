@@ -25,6 +25,19 @@ What we wanted to do as a team is create a solution to our problem. Our problem 
 This is what we based our whole project off of it is called a jai alai scooper it holds the ball and throwis it at almost 90 degree angle and can whip the ball out of the jai alai pretty fast and was very essential in our project.
 
 - this is a video of what the jai ali is actually capable of: https://www.youtube.com/watch?v=wk4-fuGAwjY
+- here is another video:
+
+
+https://user-images.githubusercontent.com/91158978/228271775-c3338992-b1db-4201-a7a4-3339b8b70e48.mp4
+- here is another video of robot engineers in Philly who created a robot that through the first pitch
+
+https://user-images.githubusercontent.com/91158978/228272692-2c9db49b-105a-4e4e-b5eb-860517c765e6.mp4
+
+
+
+
+
+
 
 ![image](https://user-images.githubusercontent.com/113116205/228253333-abcd3984-5490-450f-a9f3-8cc0a87c59f8.png)
 ![image](https://user-images.githubusercontent.com/113116205/228253504-3adfd3d6-4590-47cb-87a2-462effc2bb48.png)
@@ -51,8 +64,6 @@ This is what we based our whole project off of it is called a jai alai scooper i
 ![IMG-2209](https://user-images.githubusercontent.com/91158978/228259502-d665096a-e785-485d-af83-426343239fdc.jpg)
 ![image_50445057](https://user-images.githubusercontent.com/91158978/228259522-ee10264c-3d3c-477f-a468-ec29ad1d4b8e.JPG)
 ![image_50403329](https://user-images.githubusercontent.com/91158978/228259537-6af1d40e-7f32-4f0e-8347-183dfa58d45a.JPG)
-
-- This is the finished design as you can see we decided to replace the wals with steal rods that are coonected to the wood which are planted to the ground with the l shaped screw holders and then conected to the arm desighn then we changed it so the arm is throwing the ball at a 180 degree angle so it can be as fast as possible. Then decided to scre the battery7 holders to the side of the platform and then put the code on the actuall platform. if we had aditional time we were going to add a ball feeder but we did not have additional time.
 
 ## Commented Code
 ```python
